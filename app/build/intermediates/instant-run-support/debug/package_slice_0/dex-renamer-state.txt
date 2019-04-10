@@ -1,0 +1,4 @@
+#Mon Apr 08 12:46:36 EET 2019
+base.0=C\:\\Users\\OZEL\\AndroidStudioProjects\\Noteify\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+renamed.0=classes.dex
+file.0=C\:\\Users\\OZEL\\AndroidStudioProjects\\Noteify\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1\\classes.dex
